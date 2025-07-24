@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: view.PatientUI
+Class-Path: mysql-connector-j-8.0.31.jar protobuf-java-3.19.4.jar
+

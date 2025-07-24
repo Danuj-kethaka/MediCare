@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="medi-core:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/medi_core_jar</output-path>
+    <root id="root">
+      <element id="archive" name="medi-core.jar">
+        <element id="module-output" name="medi-core" />
+      </element>
+      <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.31" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+    </root>
+  </artifact>
+</component>
