@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 70fe7092ff17386ababee243570d443d4e38e915 manithasendiv <manitha20030809@gmail.com> 1732634418 +0530	branch: Created from dev
+70fe7092ff17386ababee243570d443d4e38e915 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634470 +0530	commit: UpdateTextFile
+0e57accb6f97bf002ca496639001a5fa3bc8d0f0 df4d97566318af0d202c384c66469b1a442fa892 manithasendiv <manitha20030809@gmail.com> 1732634674 +0530	commit: Conflict
+df4d97566318af0d202c384c66469b1a442fa892 83f6f9cbd66fd815cd0999812645fb452b0c532a manithasendiv <manitha20030809@gmail.com> 1732634801 +0530	commit: memberconflict
+83f6f9cbd66fd815cd0999812645fb452b0c532a b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f manithasendiv <manitha20030809@gmail.com> 1732635326 +0530	merge dev: Fast-forward
+b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732635596 +0530	commit: newCommit
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 38acce5aa9db8856f3cf7466ac9a6c44163d371c manithasendiv <manitha20030809@gmail.com> 1732944068 +0530	commit: test
+38acce5aa9db8856f3cf7466ac9a6c44163d371c e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 manithasendiv <manitha20030809@gmail.com> 1732944299 +0530	commit: deleteTestFiles
+e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 abc98f90dda187a4295cd5d53762414800437eea manithasendiv <manitha20030809@gmail.com> 1733147505 +0530	commit: test
+abc98f90dda187a4295cd5d53762414800437eea 230b1c6e40b540dfab64706503ce9b0d74fc5bb9 manithasendiv <manitha20030809@gmail.com> 1733148229 +0530	commit: deleteTest
+230b1c6e40b540dfab64706503ce9b0d74fc5bb9 9dd9eef3f15a06364b5690bae209c65c4e2e6e19 manithasendiv <manitha20030809@gmail.com> 1735410122 +0530	commit: PatientUI
+9dd9eef3f15a06364b5690bae209c65c4e2e6e19 ef0c0760500b0722f6c4d67f3de764d33270e18d manithasendiv <manitha20030809@gmail.com> 1736180746 +0530	commit: big update
+ef0c0760500b0722f6c4d67f3de764d33270e18d 6aeb881d487f2dc18301ba25f8619d8dbc7f4e2a manithasendiv <manitha20030809@gmail.com> 1736187724 +0530	commit: GUI updates v.1
+6aeb881d487f2dc18301ba25f8619d8dbc7f4e2a 9d59f21ecf3066e2069ada92a2f401e0f2ed696b manithasendiv <manitha20030809@gmail.com> 1736948694 +0530	commit: GUI updates v.1.1
+9d59f21ecf3066e2069ada92a2f401e0f2ed696b f069766891079ec84a164268edb85f4fd4f45859 manithasendiv <manitha20030809@gmail.com> 1738422604 +0530	commit: big update 2

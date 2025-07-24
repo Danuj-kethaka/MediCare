@@ -1,0 +1,79 @@
+0000000000000000000000000000000000000000 f31971a3bacc20d395ccbf1313eff1e9c2ebe46c manithasendiv <manitha20030809@gmail.com> 1732633527 +0530	commit (initial): first commit
+f31971a3bacc20d395ccbf1313eff1e9c2ebe46c 0000000000000000000000000000000000000000 manithasendiv <manitha20030809@gmail.com> 1732633541 +0530	Branch: renamed refs/heads/main to refs/heads/main
+f31971a3bacc20d395ccbf1313eff1e9c2ebe46c f31971a3bacc20d395ccbf1313eff1e9c2ebe46c manithasendiv <manitha20030809@gmail.com> 1732633541 +0530	Branch: renamed refs/heads/main to refs/heads/main
+f31971a3bacc20d395ccbf1313eff1e9c2ebe46c f31971a3bacc20d395ccbf1313eff1e9c2ebe46c manithasendiv <manitha20030809@gmail.com> 1732634224 +0530	checkout: moving from main to dev
+f31971a3bacc20d395ccbf1313eff1e9c2ebe46c 70fe7092ff17386ababee243570d443d4e38e915 manithasendiv <manitha20030809@gmail.com> 1732634310 +0530	commit: TestFile
+70fe7092ff17386ababee243570d443d4e38e915 70fe7092ff17386ababee243570d443d4e38e915 manithasendiv <manitha20030809@gmail.com> 1732634419 +0530	checkout: moving from dev to member1
+70fe7092ff17386ababee243570d443d4e38e915 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634470 +0530	commit: UpdateTextFile
+0e57accb6f97bf002ca496639001a5fa3bc8d0f0 70fe7092ff17386ababee243570d443d4e38e915 manithasendiv <manitha20030809@gmail.com> 1732634525 +0530	checkout: moving from member1 to dev
+70fe7092ff17386ababee243570d443d4e38e915 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634564 +0530	merge member1: Fast-forward
+0e57accb6f97bf002ca496639001a5fa3bc8d0f0 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634639 +0530	checkout: moving from dev to member1
+0e57accb6f97bf002ca496639001a5fa3bc8d0f0 df4d97566318af0d202c384c66469b1a442fa892 manithasendiv <manitha20030809@gmail.com> 1732634674 +0530	commit: Conflict
+df4d97566318af0d202c384c66469b1a442fa892 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634693 +0530	checkout: moving from member1 to dev
+0e57accb6f97bf002ca496639001a5fa3bc8d0f0 df4d97566318af0d202c384c66469b1a442fa892 manithasendiv <manitha20030809@gmail.com> 1732634703 +0530	merge member1: Fast-forward
+df4d97566318af0d202c384c66469b1a442fa892 3adef12f6159bca7353717fc964b2ea921ae9ebc manithasendiv <manitha20030809@gmail.com> 1732634767 +0530	commit: devconflict
+3adef12f6159bca7353717fc964b2ea921ae9ebc df4d97566318af0d202c384c66469b1a442fa892 manithasendiv <manitha20030809@gmail.com> 1732634781 +0530	checkout: moving from dev to member1
+df4d97566318af0d202c384c66469b1a442fa892 83f6f9cbd66fd815cd0999812645fb452b0c532a manithasendiv <manitha20030809@gmail.com> 1732634801 +0530	commit: memberconflict
+83f6f9cbd66fd815cd0999812645fb452b0c532a 3adef12f6159bca7353717fc964b2ea921ae9ebc manithasendiv <manitha20030809@gmail.com> 1732634813 +0530	checkout: moving from member1 to dev
+3adef12f6159bca7353717fc964b2ea921ae9ebc 9eea9aa60dc121729fe4a7da2e794521d1666273 manithasendiv <manitha20030809@gmail.com> 1732634946 +0530	commit (merge): Merge branch 'member1' into dev
+9eea9aa60dc121729fe4a7da2e794521d1666273 b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f manithasendiv <manitha20030809@gmail.com> 1732635275 +0530	commit: mainProjectInitiation
+b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f 83f6f9cbd66fd815cd0999812645fb452b0c532a manithasendiv <manitha20030809@gmail.com> 1732635312 +0530	checkout: moving from dev to member1
+83f6f9cbd66fd815cd0999812645fb452b0c532a b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f manithasendiv <manitha20030809@gmail.com> 1732635326 +0530	merge dev: Fast-forward
+b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732635596 +0530	commit: newCommit
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f manithasendiv <manitha20030809@gmail.com> 1732635609 +0530	checkout: moving from member1 to dev
+b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732635631 +0530	commit: xmlPush
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732635654 +0530	checkout: moving from dev to member2
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732636349 +0530	checkout: moving from member2 to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732636357 +0530	checkout: moving from member1 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732636362 +0530	checkout: moving from dev to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732640466 +0530	checkout: moving from member1 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732640470 +0530	checkout: moving from dev to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943389 +0530	checkout: moving from member1 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943463 +0530	checkout: moving from dev to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943470 +0530	checkout: moving from member3 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943481 +0530	checkout: moving from dev to member4
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943491 +0530	checkout: moving from member4 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943505 +0530	checkout: moving from dev to member5
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943508 +0530	checkout: moving from member5 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943517 +0530	checkout: moving from dev to member6
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943520 +0530	checkout: moving from member6 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943550 +0530	checkout: moving from dev to member7
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943572 +0530	checkout: moving from member7 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943583 +0530	checkout: moving from dev to member8
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732943863 +0530	checkout: moving from member8 to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943875 +0530	checkout: moving from member1 to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943896 +0530	checkout: moving from member3 to dev
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943914 +0530	checkout: moving from dev to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732943939 +0530	checkout: moving from member3 to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943943 +0530	checkout: moving from member1 to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943947 +0530	checkout: moving from member3 to member8
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732943951 +0530	checkout: moving from member8 to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a manithasendiv <manitha20030809@gmail.com> 1732943999 +0530	checkout: moving from member3 to member1
+9b4df4e8ee3c9bf2f6e4beade1ac244c4e8cbe7a 38acce5aa9db8856f3cf7466ac9a6c44163d371c manithasendiv <manitha20030809@gmail.com> 1732944068 +0530	commit: test
+38acce5aa9db8856f3cf7466ac9a6c44163d371c 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944087 +0530	checkout: moving from member1 to member2
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 38acce5aa9db8856f3cf7466ac9a6c44163d371c manithasendiv <manitha20030809@gmail.com> 1732944117 +0530	checkout: moving from member2 to member1
+38acce5aa9db8856f3cf7466ac9a6c44163d371c 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944138 +0530	checkout: moving from member1 to member2
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 38acce5aa9db8856f3cf7466ac9a6c44163d371c manithasendiv <manitha20030809@gmail.com> 1732944140 +0530	checkout: moving from member2 to member1
+38acce5aa9db8856f3cf7466ac9a6c44163d371c 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944143 +0530	checkout: moving from member1 to member2
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 72f4225fba9292d77d5c338a3a40101cea589b5d manithasendiv <manitha20030809@gmail.com> 1732944155 +0530	merge member1: Merge made by the 'ort' strategy.
+72f4225fba9292d77d5c338a3a40101cea589b5d 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944234 +0530	reset: moving to 48e8dda400acaff23f43c2f50b7319f6bc8b7c12
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 6436140ab5b12864600dd95960f17ea2a549f65e manithasendiv <manitha20030809@gmail.com> 1732944247 +0530	commit: Merge branch 'member1' into member2
+6436140ab5b12864600dd95960f17ea2a549f65e 38acce5aa9db8856f3cf7466ac9a6c44163d371c manithasendiv <manitha20030809@gmail.com> 1732944267 +0530	checkout: moving from member2 to member1
+38acce5aa9db8856f3cf7466ac9a6c44163d371c e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 manithasendiv <manitha20030809@gmail.com> 1732944299 +0530	commit: deleteTestFiles
+e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 6436140ab5b12864600dd95960f17ea2a549f65e manithasendiv <manitha20030809@gmail.com> 1732944316 +0530	checkout: moving from member1 to member2
+6436140ab5b12864600dd95960f17ea2a549f65e e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 manithasendiv <manitha20030809@gmail.com> 1732944341 +0530	checkout: moving from member2 to member1
+e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944365 +0530	checkout: moving from member1 to member3
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944381 +0530	checkout: moving from member3 to member4
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732944402 +0530	checkout: moving from member4 to member5
+48e8dda400acaff23f43c2f50b7319f6bc8b7c12 e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 manithasendiv <manitha20030809@gmail.com> 1733117696 +0530	checkout: moving from member5 to member1
+e2469994f0d9e9f2d5857bb243ae0af41f3d7e38 abc98f90dda187a4295cd5d53762414800437eea manithasendiv <manitha20030809@gmail.com> 1733147505 +0530	commit: test
+abc98f90dda187a4295cd5d53762414800437eea 6436140ab5b12864600dd95960f17ea2a549f65e manithasendiv <manitha20030809@gmail.com> 1733147535 +0530	checkout: moving from member1 to member2
+6436140ab5b12864600dd95960f17ea2a549f65e 8f8e0cd29a20615774a72d779275dd87d93243ac manithasendiv <manitha20030809@gmail.com> 1733147566 +0530	merge member1: Merge made by the 'ort' strategy.
+8f8e0cd29a20615774a72d779275dd87d93243ac 3bd7a78ca7f4636d362330ee753a6e6fe6c1821f manithasendiv <manitha20030809@gmail.com> 1733148172 +0530	commit: deleteTest
+3bd7a78ca7f4636d362330ee753a6e6fe6c1821f abc98f90dda187a4295cd5d53762414800437eea manithasendiv <manitha20030809@gmail.com> 1733148197 +0530	checkout: moving from member2 to member1
+abc98f90dda187a4295cd5d53762414800437eea 230b1c6e40b540dfab64706503ce9b0d74fc5bb9 manithasendiv <manitha20030809@gmail.com> 1733148229 +0530	commit: deleteTest
+230b1c6e40b540dfab64706503ce9b0d74fc5bb9 9dd9eef3f15a06364b5690bae209c65c4e2e6e19 manithasendiv <manitha20030809@gmail.com> 1735410122 +0530	commit: PatientUI
+9dd9eef3f15a06364b5690bae209c65c4e2e6e19 ef0c0760500b0722f6c4d67f3de764d33270e18d manithasendiv <manitha20030809@gmail.com> 1736180746 +0530	commit: big update
+ef0c0760500b0722f6c4d67f3de764d33270e18d 6aeb881d487f2dc18301ba25f8619d8dbc7f4e2a manithasendiv <manitha20030809@gmail.com> 1736187724 +0530	commit: GUI updates v.1
+6aeb881d487f2dc18301ba25f8619d8dbc7f4e2a 9d59f21ecf3066e2069ada92a2f401e0f2ed696b manithasendiv <manitha20030809@gmail.com> 1736948694 +0530	commit: GUI updates v.1.1
+9d59f21ecf3066e2069ada92a2f401e0f2ed696b f069766891079ec84a164268edb85f4fd4f45859 manithasendiv <manitha20030809@gmail.com> 1738422604 +0530	commit: big update 2
