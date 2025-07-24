@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 f31971a3bacc20d395ccbf1313eff1e9c2ebe46c manithasendiv <manitha20030809@gmail.com> 1732634223 +0530	branch: Created from main
-f31971a3bacc20d395ccbf1313eff1e9c2ebe46c 70fe7092ff17386ababee243570d443d4e38e915 manithasendiv <manitha20030809@gmail.com> 1732634310 +0530	commit: TestFile
-70fe7092ff17386ababee243570d443d4e38e915 0e57accb6f97bf002ca496639001a5fa3bc8d0f0 manithasendiv <manitha20030809@gmail.com> 1732634564 +0530	merge member1: Fast-forward
-0e57accb6f97bf002ca496639001a5fa3bc8d0f0 df4d97566318af0d202c384c66469b1a442fa892 manithasendiv <manitha20030809@gmail.com> 1732634703 +0530	merge member1: Fast-forward
-df4d97566318af0d202c384c66469b1a442fa892 3adef12f6159bca7353717fc964b2ea921ae9ebc manithasendiv <manitha20030809@gmail.com> 1732634767 +0530	commit: devconflict
-3adef12f6159bca7353717fc964b2ea921ae9ebc 9eea9aa60dc121729fe4a7da2e794521d1666273 manithasendiv <manitha20030809@gmail.com> 1732634946 +0530	commit (merge): Merge branch 'member1' into dev
-9eea9aa60dc121729fe4a7da2e794521d1666273 b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f manithasendiv <manitha20030809@gmail.com> 1732635275 +0530	commit: mainProjectInitiation
-b7b1e19b0c3be5170fc11d7d550f64b948b7ee1f 48e8dda400acaff23f43c2f50b7319f6bc8b7c12 manithasendiv <manitha20030809@gmail.com> 1732635631 +0530	commit: xmlPush
